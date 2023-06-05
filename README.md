@@ -1,7 +1,8 @@
 
 
 # Parola Kft. 
-Második ggenerációs informatikai vállalkozás
+Második generációs informatikai vállalkozás
+
 Alapítva 1990-ben 
 #
 # Filozófiánk
