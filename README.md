@@ -1,3 +1,4 @@
+![ParolaLogo](https://github.com/parolakft/parolakft/assets/135581332/a8889d26-0146-43ce-9556-96043fd8aa92)
 
 
 # Parola Kft. 
